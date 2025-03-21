@@ -55,7 +55,7 @@ void free_heap (heap *h) {
 
 // maintain heap property
 void heapify (heap h) {
-	
+	(void)h;	
 }
 
 int main (void) {
